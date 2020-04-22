@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/riteshanand/Documents/repo/sparkencoder/src/main/scala/MainApp.scala:37:17: forward reference extends over definition of value fSource[0m
+[0m[[0m[31merror[0m] [0m[0m                validity=1        [0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
