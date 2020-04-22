@@ -1,0 +1,7 @@
+~run
+~run 
+run MainApp
+~run
+run encoder "/Users/riteshanand/Documents/repo/sparkencoder/input/input.txt" "/Users/riteshanand/Documents/repo/sparkencoder/input/output.txt" 
+exit
+run encoder "/Users/riteshanand/Documents/repo/sparkencoder/input/input.txt" "/Users/riteshanand/Documents/repo/sparkencoder/input/output.txt" 
